@@ -1144,7 +1144,9 @@
 .rounded-1 {
 	border-radius: 10rpx;
 }
-
+.rounded-50 {
+		border-radius: 50%;
+	}
 .rounded-2 {
 	border-radius: 20rpx;
 }
