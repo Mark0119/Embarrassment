@@ -1,7 +1,6 @@
 <template>
 	<view :style="{background:`${color}`}">
 		<view :style="{height:`${statusBarHeight}px`}">
-			导航占位符
 		</view>
 	</view>
 </template>

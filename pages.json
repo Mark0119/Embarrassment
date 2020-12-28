@@ -40,9 +40,7 @@
 		"backgroundColor": "#F8F8F8",
 		"navigationStyle": "custom",
 		"usingComponents": {
-			"van-button": "wxcomponents/vant/button/index",
-			"van-divider": "wxcomponents/vant/divider/index",
-			"van-notify": "wxcomponents/vant/notify/index"
+			"van-search": "wxcomponents/vant/search/index"
 		}
 	},
 	"tabBar": {

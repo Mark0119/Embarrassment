@@ -45,6 +45,9 @@
 .w-80 {
 	width: 80%;
 }
+.w-90 {
+	width: 90%;
+}
 .w-100 {
 	width: 100%;
 }
@@ -1304,4 +1307,8 @@ image {
 /* ** */
 .p-4_5 {
 	padding: 45rpx;
+}
+i{
+	display: inline-block;
+	font-size: 44rpx;
 }
